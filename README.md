@@ -4,6 +4,10 @@ An end-to-end financial-services analytics and machine-learning portfolio projec
 
 The project uses the **UCI Default of Credit Card Clients dataset** and demonstrates how portfolio data can be transformed into actionable credit-risk insights using Python, SQL, machine learning, automated testing, and Streamlit.
 
+## Live Demo
+
+[View the interactive Streamlit dashboard](https://komil-credit-risk-analytics.streamlit.app)
+
 > **Portfolio Disclaimer**
 >
 > This project is intended solely for educational and portfolio demonstration purposes. Model scores are not production probability-of-default estimates and have not undergone formal model validation, calibration, regulatory approval, or production governance.
