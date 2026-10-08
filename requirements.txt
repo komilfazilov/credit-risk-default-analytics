@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+scipy==1.16.2
+scikit-learn
+duckdb
+jupyter
+ipykernel
+openpyxl
+pytest
+ucimlrepo

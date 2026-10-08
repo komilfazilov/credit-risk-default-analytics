@@ -1,0 +1,6 @@
+risk_band,clients,actual_defaults,observed_default_rate_pct,average_model_score_pct
+Low,578,23.0,3.98,16.83
+Moderate,2949,358.0,12.14,30.18
+Elevated,1280,270.0,21.09,47.69
+High,619,281.0,45.4,69.91
+Very High,574,395.0,68.82,87.04

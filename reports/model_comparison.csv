@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+Logistic Regression - 0.50 Threshold,0.8093,0.7011,0.2404,0.358,0.7064
+Logistic Regression - 0.30 Threshold,0.8012,0.5653,0.4371,0.493,0.7064
+Random Forest,0.7737,0.4904,0.5968,0.5384,0.7752
